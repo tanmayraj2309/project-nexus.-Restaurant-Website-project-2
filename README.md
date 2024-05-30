@@ -1,1 +1,2 @@
 # Restaurant_Website
+This repository hosts a fully-functional restaurant website built with HTML, CSS, and JavaScript for the frontend, and Node.js with MongoDB for the backend. It features an elegant design with a menu, reservations, and contact pages. The backend supports user authentication, dynamic content management, and seamless data storage, providing a robust and interactive user experience.
